@@ -1,0 +1,36 @@
+<Session>
+  <Hostname Remote="0" RemoteHost="wpfapplication">
+    <Server Name="Matrikon.OPC.Simulation.1" Connected="1" GroupCount="5">
+    </Server>
+    <Group Name="Test1" Active="-1" ReqUpdateRate="7777" TimeBias="-360" PercentDeadband="0.00" Connected="2">
+      <Item AccessPath="" Active="-1" ReqDataType="0">Good Weather!</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Good Day!</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Good people!</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Good View!</Item>
+    </Group>
+    <Group Name="Test2" Active="-1" ReqUpdateRate="8888" TimeBias="-360" PercentDeadband="0.00" Connected="2">
+      <Item AccessPath="" Active="-1" ReqDataType="0">Nice Weather</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Nice Day!</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Nice People!</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Nice View!</Item>
+    </Group>
+    <Group Name="Test3" Active="-1" ReqUpdateRate="1000" TimeBias="-360" PercentDeadband="0.00" Connected="2">
+      <Item AccessPath="" Active="-1" ReqDataType="0">Movie</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Music</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Games</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">T Shows</Item>
+    </Group>
+    <Group Name="Test4" Active="-1" ReqUpdateRate="1000" TimeBias="-360" PercentDeadband="0.00" Connected="2">
+      <Item AccessPath="" Active="-1" ReqDataType="0">Dogs</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Cats</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Giraff</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Horse</Item>
+    </Group>
+    <Group Name="Test5" Active="-1" ReqUpdateRate="1000" TimeBias="-360" PercentDeadband="0.00" Connected="2">
+      <Item AccessPath="" Active="-1" ReqDataType="0">Computer Science</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Mathematics</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Chemical Engineering</Item>
+      <Item AccessPath="" Active="-1" ReqDataType="0">Biology</Item>
+    </Group>
+  </Hostname>
+</Session>
